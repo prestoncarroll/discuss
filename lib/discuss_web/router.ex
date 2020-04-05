@@ -24,3 +24,4 @@ defmodule DiscussWeb.Router do
   #   pipe_through :api
   # end
 end
+
